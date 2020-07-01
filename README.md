@@ -43,3 +43,20 @@
 # Quizzler-iOS13
 [![HitCount](http://hits.dwyl.com/KushalBhanot/Quizzler-iOS13.svg)](http://hits.dwyl.com/KushalBhanot/Quizzler-iOS13)<br>
 Knowledge is Power. Power excels you to this world. What are you waiting for then? Try this.
+
+## Cloning
+```bash
+$ git clone https://github.com/KushalBhanot/Quizzler-iOS13.git
+```
+
+## Key Features
+
+* MVC design architecture
+* Fully responsive
+* Made with [UIkit](https://developer.apple.com/documentation/uikit)
+* Built for iOS 13.0+
+
+## You may also like...
+
+- [EggTimer](https://github.com/KushalBhanot/EggTimer-iOS13) - Want your mornings to be hassle-free with delicious eggs? Look no more.
+- [Xylophone](https://github.com/KushalBhanot/Xylophone-iOS13) - Play Xylophone for some music composition or just to kill time. The choice is yours!
